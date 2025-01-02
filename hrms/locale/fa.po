@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: contact@frappe.io\n"
 "POT-Creation-Date: 2024-12-29 09:34+0000\n"
-"PO-Revision-Date: 2025-01-01 04:15\n"
+"PO-Revision-Date: 2025-01-02 04:39\n"
 "Last-Translator: contact@frappe.io\n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -3834,7 +3834,7 @@ msgstr "مرخصی های به دست آمده"
 
 #: hrms/hr/doctype/leave_type/leave_type.py:34
 msgid "Earned Leaves are allocated as per the configured frequency via scheduler."
-msgstr "مرخصی‌های به دست آمده طبق فرکانس پیکربندی شده از طریق زمانبندی تخصیص داده می شوند."
+msgstr "مرخصی‌های به دست آمده طبق فرکانس پیکربندی شده از طریق زمان‌بندی تخصیص داده می شوند."
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.py:143
 msgid "Earned Leaves are auto-allocated via scheduler based on the annual allocation set in the Leave Policy: {0}"
@@ -8848,7 +8848,7 @@ msgstr "هیچ سابقه حضور یافت نشد"
 
 #: hrms/hr/doctype/interview/interview.py:87
 msgid "No changes found in timings."
-msgstr "هیچ تغییری در زمان بندی یافت نشد."
+msgstr "هیچ تغییری در زمان‌بندی یافت نشد."
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.py:202
 msgid "No employees found"
